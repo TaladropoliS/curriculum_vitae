@@ -1,0 +1,11 @@
+#foto-ftv {
+    max-height: 260px;
+}
+
+section[id]{
+    scroll-margin-top: 70px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
